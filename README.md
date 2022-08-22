@@ -26,6 +26,13 @@ Please cite as necessary:
 
 2. H. Wickham. ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York, 2016. https://ggplot2.tidyverse.org
 
-## Creators
-Greta Reintjes (<greintje@mpi-bremen.de>)
-Kristin E. Low (<kristin.low@agr.gc.ca>)
+## Authors
+Greta Reintjes (creator, <greintje@mpi-bremen.de>)
+
+Kristin E. Low (creator, <kristin.low@agr.gc.ca>)
+
+Jeffrey P. Tingley (contributor, <jeffrey.tingley@agr.gc.ca>)
+
+Alex Fraser (contributor, <alexander.fraser@alumni.ubc.ca>)
+
+Work for rSACCHARIS was performed in the lab of D. Wade Abbott (AAFC) (<wade.abbott@agr.gc.ca>).
