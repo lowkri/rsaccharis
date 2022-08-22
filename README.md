@@ -1,7 +1,7 @@
 # rSACCHARIS
 An R package for beautifying the output of SACCHARIS.
 
-This package will use metadata .json and .tree files output from SACCHARIS v2 to generate annotated phylogenetic tree PDF files. Highly customizable, as the formatting of the tree is done using ``ggtree`` and ``ggplot2``. Of course plotting functions can easily be manipulated as desired.
+This package will use metadata .json and .tree files output from SACCHARIS v2 to generate annotated phylogenetic tree PDF files. Highly customizable, as the formatting of the tree is done using ``ggtree`` and ``ggplot2``. Of course plotting functions can easily be manipulated as desired, and the R script files are provided here too for that purpose.
 
 ## Usage
 
